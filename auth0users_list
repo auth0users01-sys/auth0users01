@@ -29,7 +29,7 @@ local users = {
     "hitarianp05","metonmua036","hidukeyth24","elhanthef03","manielxd2009",
     "riva_io2007","idkralina00","ignnelver8","mrdosbail23","batatetop999",
     "XxMax_StealthxX2024","Prism_CIRCUIT18","Beast_Chaos12","78l2x","1hn6k",
-    "FuryHawkEagl32007","HunterOrbit66","gec1o"
+    "FuryHawkEagl32007","HunterOrbit66","gec1o","XxCart3rAlphaxX2005"
 }
 
 -- Create a TrussPart for each user to avoid truncation
