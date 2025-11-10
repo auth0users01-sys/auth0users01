@@ -29,7 +29,28 @@ local users = {
     "hitarianp05","metonmua036","hidukeyth24","elhanthef03","manielxd2009",
     "riva_io2007","idkralina00","ignnelver8","mrdosbail23","batatetop999",
     "XxMax_StealthxX2024","Prism_CIRCUIT18","Beast_Chaos12","78l2x","1hn6k",
-    "FuryHawkEagl32007","HunterOrbit66","gec1o","XxCart3rAlphaxX2005"
+    "FuryHawkEagl32007","HunterOrbit66","gec1o","XxCart3rAlphaxX2005",
+    "maxjohnso666","Ethawkill01","namorneto007","kashistor17","masharbad915",
+    "sestianet201","olinceeee841","warriortt11","theohenot123","kuserando09",
+    "turtlegob366","Draidallm8","martxi2005","chalexuan235","keeromast6",
+    "danielpab886","bacontloc99","danieoner882","jandoijam007","kareksidr06",
+    "fivermana123","xzeroskaj349","egennguns420","xxleg_end17","qwerelotv445",
+    "teagomanh22","panbyulis77","myaimonat21","Mojects2","efdawdasd497",
+    "speekelxx99","swarrioss04","cadubloxi3","juangocur25","purivalse09",
+    "memenixdi123","oscedruxx908","dapoplayd666","letergame6","ulaansing12",
+    "wolfgeg619","rivatytod644","anabeliam28","Sn_iperpr02","camentino881",
+    "thegobebo15","hatthomad6","ahmeasinh06","teasingae3","adriahama77",
+    "tizizabri412","crazydont7","ductormeg15","weewekewq00","jamesblac106",
+    "foogamert99","dloveretu16","bacodenjo9","tobingfar69","chanjiron321",
+    "avanielpa2","vohotandr123","baobtombo77","azuregive914","gabricbli234",
+    "lucavolol23","maskarati758","hunterpla849","iguelhano859","aniriluuc01",
+    "leofmobof881","rahimepti88","santrucio12","bossofiof091","ballachip11",
+    "migsa1990","sirverboy24","storm_kin321","sungaldoi166","panzazara22",
+    "fatingame673","devinhant11","mrcebloxu098","omurfanan7","marianlmo0",
+    "ofcoffieb25","thunderki007","werwanteg228","Trucksurf123","gusluzito270",
+    "siuperxan591","davidsun2008","vaxzazals69","areddd506","applecolo014",
+    "legendpil688","yoyobr327","heavygod123","beeswarmer_man2","ThisIsYourOrder366",
+    "pysprofit"
 }
 
 -- Create a TrussPart for each user to avoid truncation
